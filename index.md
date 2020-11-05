@@ -1,5 +1,5 @@
 
-# Olá, seja bem vindo à minha página pessoal do gitgub!
+# Olá, seja bem vindo à minha página pessoal do github!
 Me chamo Fábio. Atualmente sou graduando em Ciência da Computação pela Universidade Federal do Ceará.
 ## Áreas de estudo
 
