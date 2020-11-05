@@ -26,6 +26,9 @@ Me chamo Fábio. Atualmente sou graduando em Ciência da Computação pela Unive
 
 fabiosantos77738@gmail.com
 
++55 88 994228425
+
+
 
 
 
