@@ -1,3 +1,4 @@
+
 # Olá, seja bem vindo à minha página pessoal do gitgub!
 Me chamo Fábio. Atualmente sou graduando em Ciência da Computação pela Universidade Federal do Ceará.
 ## Áreas de estudo
@@ -12,6 +13,7 @@ Me chamo Fábio. Atualmente sou graduando em Ciência da Computação pela Unive
 8. Programação Dinâmica
 
 
+
 ## Projetos pessoais
 
 
@@ -21,7 +23,7 @@ Me chamo Fábio. Atualmente sou graduando em Ciência da Computação pela Unive
 
 
 ### Support or Contact
-[contact support](fabiosantos77738@gmail.com)
+
 
 
 
