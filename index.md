@@ -13,13 +13,13 @@ Me chamo Fábio. Atualmente sou graduando em Ciência da Computação pela Unive
 
 ´´´
 ## Projetos pessoais
-```
+```markdown
 1. Codificação Huffman
 2. Kmeans em Haskell
 3. Rede Neural Simples
 ´´´
 ### Support or Contact
-[contact support](fabiosantos77738@gmail.com)
-[contact support](+55 88 994228425)
+[Link](fabiosantos77738@gmail.com)
+
 
 
